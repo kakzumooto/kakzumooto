@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 me llamo Héctor</h1>
+<h1 align="center">Hola 👋 me llamo Héctor</h1>
 <h3 align="center">Soy Ingeniero en sistemas, pero me especializo en Backend usando Java y Spring ademas de otras herramientas.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kakzumooto&label=Profile%20views&color=0e75b6&style=flat" alt="kakzumooto" /> </p>
